@@ -40,6 +40,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A5FBF7DF1F56D68F009AAF01 /* DTS_Beauty.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DTS_Beauty.jpg; sourceTree = "<group>"; };
+		A5FBF7E01F56D6CE009AAF01 /* DTS_BMX.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DTS_BMX.jpg; sourceTree = "<group>"; };
+		A5FBF7E11F56D6CE009AAF01 /* DTS_Body.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DTS_Body.jpg; sourceTree = "<group>"; };
+		A5FBF7E21F56D6CE009AAF01 /* DTS_Cuba.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DTS_Cuba.jpg; sourceTree = "<group>"; };
+		A5FBF7E31F56D6CE009AAF01 /* DTS_HotCold.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DTS_HotCold.jpg; sourceTree = "<group>"; };
+		A5FBF7E41F56D6CE009AAF01 /* DTS_Kinckerbocker.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DTS_Kinckerbocker.jpg; sourceTree = "<group>"; };
 		BC191C78199A6C94000C9A4A /* ChairTest.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ChairTest.png; path = GPUImagePlayground.playground/Resources/ChairTest.png; sourceTree = "<group>"; };
 		BCC31A581999BD2600DFA879 /* CustomFilter.fsh */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; name = CustomFilter.fsh; path = GPUImagePlayground.playground/Resources/CustomFilter.fsh; sourceTree = "<group>"; };
 		BCF23F5E1995710B00877133 /* PlaygroundExample */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PlaygroundExample; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -64,6 +70,12 @@
 			children = (
 				BCC31A581999BD2600DFA879 /* CustomFilter.fsh */,
 				BC191C78199A6C94000C9A4A /* ChairTest.png */,
+				A5FBF7DF1F56D68F009AAF01 /* DTS_Beauty.jpg */,
+				A5FBF7E01F56D6CE009AAF01 /* DTS_BMX.jpg */,
+				A5FBF7E11F56D6CE009AAF01 /* DTS_Body.jpg */,
+				A5FBF7E21F56D6CE009AAF01 /* DTS_Cuba.jpg */,
+				A5FBF7E31F56D6CE009AAF01 /* DTS_HotCold.jpg */,
+				A5FBF7E41F56D6CE009AAF01 /* DTS_Kinckerbocker.jpg */,
 			);
 			name = "Playground Resources";
 			sourceTree = "<group>";
